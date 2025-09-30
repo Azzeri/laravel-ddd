@@ -1,6 +1,6 @@
 <?php
 
-namespace App\User\Infrastructure\Repository\Persistence;
+namespace App\User\Infrastructure\Repository\Persistence\Eloquent;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
