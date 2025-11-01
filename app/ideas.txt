@@ -1,0 +1,6 @@
+event moze byc prywatny lub publiczny
+participant moze byc glownym organiztorem/organizatorem/wystawca/gosciem
+participant w zaleznosci od eventu musi podac imie/nazwisko/pesel lub nic
+event ma start i koniec
+event ma lokalizacje (adres)
+event ma nazwe
